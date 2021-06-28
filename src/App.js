@@ -23,7 +23,7 @@ function App() {
         </div>
        
       )): "nothing to show"}
-      <a href="olo-ini.com">built by olo-ini</a>
+      <a href="http://olo-ini.com/">built by olo-ini</a>
     </div>
   );
 }
